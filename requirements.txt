@@ -1,0 +1,8 @@
+selenium>=4.0.0
+webdriver-manager
+tqdm
+pillow
+selenium-wire
+img2pdf
+pypdf>=3.0.0
+git+https://github.com/lovasoa/pagelabels-py.git
